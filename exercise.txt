@@ -1,0 +1,2 @@
+Capacity of room 201 is 50.
+The event 2 is ok.
